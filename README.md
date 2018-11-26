@@ -1,7 +1,7 @@
 # Some sample notebooks that help to understand R
 
 Console Input and Evaluation
-![alt text](https://github.com/rhuanca/r-notebook/blob/master/console_input_and_evaluation.ipynb)
+![alt text](console_input_and_evaluation.ipynb)
 
 
 Data Types R Objects and Attributes
