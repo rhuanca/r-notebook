@@ -7,4 +7,4 @@
 * ![Factors](factors.ipynb)
 * ![Data Types - Missing Values](data_types_missing_values.ipynb)
 * ![Data Frames](data_frames.ipynb)
-* ![Data Types - Name Attributes](Data%20Types%20-%20Name%20Attributes.ipynb)
+* ![Data Types - Name Attributes](data_types-name_attributes.ipynb)
