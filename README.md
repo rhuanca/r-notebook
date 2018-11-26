@@ -8,3 +8,4 @@
 * ![Data Types - Missing Values](data_types_missing_values.ipynb)
 * ![Data Frames](data_frames.ipynb)
 * ![Data Types - Name Attributes](data_types-name_attributes.ipynb)
+* ![Reading Tabular Data](reading_tabular_data.ipynb)
