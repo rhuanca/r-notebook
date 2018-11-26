@@ -2,9 +2,8 @@
 
 
 * ![Console Input and Evaluation](console_input_and_evaluation.ipynb)
+* ![Data Types R Objects and Attributes](Data_Types_R_Objects_and_Attributes.ipynb)
 
-Data Types R Objects and Attributes
-https://github.com/rhuanca/r-notebook/blob/master/Data_Types_R_Objects_and_Attributes.ipynb
 
 Vectors And Lists 
 https://github.com/rhuanca/r-notebook/blob/master/vectors_and_list.ipynb
