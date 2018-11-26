@@ -1,5 +1,4 @@
-# Some sample notebooks that help to understand R
-
+# My Notes on Introduction to R programming
 
 * ![Console Input and Evaluation](console_input_and_evaluation.ipynb)
 * ![Data Types R Objects and Attributes](Data_Types_R_Objects_and_Attributes.ipynb)
