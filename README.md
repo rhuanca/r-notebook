@@ -10,3 +10,4 @@
 * ![Data Types - Name Attributes](data_types-name_attributes.ipynb)
 * ![Reading Tabular Data](reading_tabular_data.ipynb)
 * ![Textual Formats](textual_formats.ipynb)
+* ![Connections](connections_interfaces_outside_world.ipynb)
