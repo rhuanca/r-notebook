@@ -11,3 +11,4 @@
 * ![Reading Tabular Data](reading_tabular_data.ipynb)
 * ![Textual Formats](textual_formats.ipynb)
 * ![Connections](connections_interfaces_outside_world.ipynb)
+* ![Subsetting](subsetting.ipynb)
