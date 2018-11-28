@@ -12,3 +12,4 @@
 * ![Textual Formats](textual_formats.ipynb)
 * ![Connections](connections.ipynb)
 * ![Subsetting - Part 1](subsetting_part_1.ipynb)
+* ![Subsetting - Part 2](subsetting_part_2.ipynb)
