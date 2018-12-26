@@ -18,3 +18,6 @@
 * ![Vectorized Operations](01_14_vectorized_operations.ipynb)
 
 ## Part 2
+
+* ![Functions](02_01_functions.ipynb)
+* ![Scoping Rules](02_02_scoping_rules.ipynb)
