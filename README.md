@@ -15,6 +15,6 @@
 * ![Connections](01_11_connections.ipynb)
 * ![Subsetting - Part 1](01_12_subsetting_part_1.ipynb)
 * ![Subsetting - Part 2](01_13_subsetting_part_2.ipynb)
-* ![Vectorized Operations](vectorized_operations.ipynb)
+* ![Vectorized Operations](01_14_vectorized_operations.ipynb)
 
 ## Part 2
