@@ -10,7 +10,7 @@
 * ![Data Types - Missing Values](01_06_data_types_missing_values.ipynb)
 * ![Data Frames](01_07_data_frames.ipynb)
 * ![Data Types - Name Attributes](01_08_data_types-name_attributes.ipynb)
-* ![Reading Tabular Data](reading_tabular_data.ipynb)
+* ![Reading Tabular Data](01_09_reading_tabular_data.ipynb)
 * ![Textual Formats](textual_formats.ipynb)
 * ![Connections](connections.ipynb)
 * ![Subsetting - Part 1](subsetting_part_1.ipynb)
