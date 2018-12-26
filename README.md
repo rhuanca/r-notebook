@@ -13,7 +13,7 @@
 * ![Reading Tabular Data](01_09_reading_tabular_data.ipynb)
 * ![Textual Formats](01_10_textual_formats.ipynb)
 * ![Connections](01_11_connections.ipynb)
-* ![Subsetting - Part 1](subsetting_part_1.ipynb)
+* ![Subsetting - Part 1](01_12_subsetting_part_1.ipynb)
 * ![Subsetting - Part 2](subsetting_part_2.ipynb)
 * ![Vectorized Operations](vectorized_operations.ipynb)
 
