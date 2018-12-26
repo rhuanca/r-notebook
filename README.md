@@ -4,7 +4,7 @@
 
 * ![Console Input and Evaluation](01_01_console_input_and_evaluation.ipynb)
 * ![Data Types R Objects and Attributes](01_02_Data_Types_R_Objects_and_Attributes.ipynb)
-* ![Vectors And Lists](vectors_and_list.ipynb)
+* ![Vectors And Lists](01_03_vectors_and_list.ipynb)
 * ![Matrices](matrices.ipynb)
 * ![Factors](factors.ipynb)
 * ![Data Types - Missing Values](data_types_missing_values.ipynb)
