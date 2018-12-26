@@ -7,7 +7,7 @@
 * ![Vectors And Lists](01_03_vectors_and_list.ipynb)
 * ![Matrices](01_04_matrices.ipynb)
 * ![Factors](01_05_factors.ipynb)
-* ![Data Types - Missing Values](data_types_missing_values.ipynb)
+* ![Data Types - Missing Values](01_06_data_types_missing_values.ipynb)
 * ![Data Frames](data_frames.ipynb)
 * ![Data Types - Name Attributes](data_types-name_attributes.ipynb)
 * ![Reading Tabular Data](reading_tabular_data.ipynb)
