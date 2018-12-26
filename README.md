@@ -6,7 +6,7 @@
 * ![Data Types R Objects and Attributes](01_02_Data_Types_R_Objects_and_Attributes.ipynb)
 * ![Vectors And Lists](01_03_vectors_and_list.ipynb)
 * ![Matrices](01_04_matrices.ipynb)
-* ![Factors](factors.ipynb)
+* ![Factors](01_05_factors.ipynb)
 * ![Data Types - Missing Values](data_types_missing_values.ipynb)
 * ![Data Frames](data_frames.ipynb)
 * ![Data Types - Name Attributes](data_types-name_attributes.ipynb)
