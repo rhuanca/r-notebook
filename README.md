@@ -1,6 +1,8 @@
 # My Notes on Introduction to R programming
 
-* ![Console Input and Evaluation](console_input_and_evaluation.ipynb)
+## Part 1
+
+* ![Console Input and Evaluation](01_console_input_and_evaluation.ipynb)
 * ![Data Types R Objects and Attributes](Data_Types_R_Objects_and_Attributes.ipynb)
 * ![Vectors And Lists](vectors_and_list.ipynb)
 * ![Matrices](matrices.ipynb)
@@ -14,3 +16,5 @@
 * ![Subsetting - Part 1](subsetting_part_1.ipynb)
 * ![Subsetting - Part 2](subsetting_part_2.ipynb)
 * ![Vectorized Operations](vectorized_operations.ipynb)
+
+## Part 2
