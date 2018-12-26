@@ -27,3 +27,9 @@
 * ![Error Handling](03_01_error_handling.ipynb)
 * ![Loop Functions I](03_02_loop_functions_part_I.ipynb)
 * ![Loop Functions II](03_03_loop_functions_part_II.ipynb)
+
+## Part 4 - Debugging & Simulating
+
+* ![The str Function](04_01_the_str_function.ipynb)
+* ![Profiling](04_02_profiling.ipynb)
+* ![Simulation](04_03_simulation.ipynb)
